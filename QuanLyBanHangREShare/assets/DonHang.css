@@ -1,0 +1,21 @@
+﻿.wrapper_donhang {
+    opacity: 0;
+    animation: fadeInAnimation 1s ease-in-out forwards;
+}
+.table_info {
+    font-size: medium;
+    margin: 0 auto;
+    line-height: 3;
+    margin: 0 auto;
+    line-height: 2.5;
+    font-weight: bold;
+    color: crimson;
+}
+
+.lblTongTien {
+    text-align: center;
+    color: #d34343;
+}
+td {
+    font-size: medium;
+}

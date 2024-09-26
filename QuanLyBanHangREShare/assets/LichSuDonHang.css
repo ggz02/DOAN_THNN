@@ -1,0 +1,14 @@
+﻿.thongbao {
+    color: blue;
+    font-size: 18px;
+    padding-left: 8px;
+}
+
+.wrapper_HisProduct {
+    opacity: 0;
+    animation: fadeInAnimation 1s ease-in-out forwards;
+}
+
+.gridview {
+    margin: 22px 0;
+}

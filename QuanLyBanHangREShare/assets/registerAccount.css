@@ -1,0 +1,79 @@
+﻿.wrapper_login {
+    position: relative;
+    top: 100px;
+    left: 0;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    place-items: center;
+    gap: 10px;
+    opacity: 0;
+    animation: fadeInAnimation 1s ease-in-out forwards;
+}
+
+.img_login_shop {
+    min-height: 50px;
+    height: 556px;
+    width: 100%;
+}
+.formdangky {
+    padding: 50px 15px;
+    margin: 0 40px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    color: #202124;
+    margin: 20px auto;
+    text-align: left;
+}
+
+.formdangky .login_button {
+    border: none;
+    background-color: crimson;
+    padding: 26px 0;
+    border-radius: 10px;
+    width: 100%;
+    height: 20px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 16px 0;
+    cursor: pointer;
+    padding-top: 10px;
+}
+
+    .formdangky .login_button:hover {
+        background-color: #179D49;
+        box-shadow: 0 2px 4px 2px rgba(0,0,0,0.5);
+    }
+
+    .formdangky .login_title {
+        text-transform: uppercase;
+        font-size: 32px;
+        padding-bottom: 36px;
+        font-weight: bold;
+    }
+
+.formdangky .login_label, #login .login_textbox {
+    display: block;
+    margin-bottom: 15px;
+}
+
+.formdangky .login_label {
+    padding: 4px;
+}
+
+.formdangky .login_textbox {
+    border: 1px solid #ccc;
+    width: 100%;
+    margin: 0 0 10px 6px;
+    outline-color: crimson;
+    border-radius: 4px;
+    padding: 4px;
+}
+
+.auto-style1 {
+    width: 220px;
+}
+
+.auto-style3 {
+    text-align: center;
+}

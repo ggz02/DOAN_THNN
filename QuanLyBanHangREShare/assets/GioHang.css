@@ -1,0 +1,63 @@
+﻿a + a {
+    margin-left: 20px;
+    text-align: center;
+}
+
+.title_giohang {
+    opacity: 0;
+    animation: fadeInAnimation 1s ease-in-out forwards;
+}
+
+.wrapper_Giohang {
+    opacity: 0;
+    animation: fadeInAnimation 1s ease-in-out forwards;
+}
+.wrapper_emptyCart {
+    display: grid;
+    grid-template-columns: auto auto;
+    place-content: center;
+    grid-gap: 83px;
+    background-color: #f7f7f7;
+    margin: 0 88px;
+    opacity: 0;
+    animation: fadeInAnimation 1s ease-in-out forwards;
+}
+
+@keyframes fadeInAnimation {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.lbl_emptyCart {
+    font-size: 44px;
+    color: #202124;
+    margin: 0 0 20px;
+    margin-left: 0px;
+    margin-top: 80px;
+    line-height: 1.4
+}
+
+.img_emptyCart {
+}
+
+.wrapper_btn_emptyProduct {
+    position: absolute;
+    top: 55%;
+    left: 10%;
+}
+.btn_empty {
+    background-color: #179D49 !important;
+    transition: all .25s linear;
+}
+.giohang_grdview {
+    text-align: center;
+}
+
+.lblTongTien {
+    font-weight: bold;
+}

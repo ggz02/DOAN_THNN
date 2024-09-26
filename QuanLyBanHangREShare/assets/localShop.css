@@ -1,0 +1,23 @@
+﻿.wrapper_localtion {
+    opacity: 0;
+    animation: fadeInAnimation 1s ease-in-out forwards;
+}
+
+@keyframes fadeInAnimation {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+#shop_map {
+    width: 100%;
+    height: 600px;
+}
+
+.title_thanks {
+    text-align: center;
+    color: crimson;
+}

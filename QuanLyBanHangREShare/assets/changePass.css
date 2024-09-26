@@ -1,0 +1,51 @@
+﻿.wrapper_thaydoimatkhau {
+    opacity: 0;
+    animation: fadeInAnimation 1s ease-in-out forwards;
+}
+.changpass {
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    color: #202124;
+    margin: 20px auto;
+}
+
+.wrapper_table_changepass {
+    padding: 20px 15px 50px 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px 2px rgba(0,0,0,0.25);
+}
+
+.changpass_label,
+.changpass_txt {
+    display: block;
+    margin-bottom: 30px;
+}
+
+.changpass_label {
+    text-align: left;
+    width: 170px;
+}
+
+.changpass_txt {
+    border: 1px solid #ccc;
+    width: 100%;
+    margin: 0 0 10px 6px;
+    outline-color: crimson;
+    border-radius: 4px;
+    padding: 4px;
+}
+
+.changpass_btnwrapper {
+    position: relative;
+}
+
+.changpass_btnxacnhan {
+    position: absolute;
+    left: 0;
+}
+
+.changpass_btnhuy {
+    position: absolute;
+    right: 0;
+}

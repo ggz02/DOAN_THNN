@@ -1,0 +1,11 @@
+﻿.changepass {
+    color: #757575;
+    font-weight: bold;
+    line-height: 4;
+}
+
+    .changepass:hover {
+        color: #179D49;
+        text-decoration-line: underline;
+        transition: all .25s linear;
+    }

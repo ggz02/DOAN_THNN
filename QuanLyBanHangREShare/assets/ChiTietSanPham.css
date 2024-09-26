@@ -1,0 +1,38 @@
+﻿.wrapper_chitietsanpham {
+    
+}
+
+.GridView {
+    opacity: 0;
+    animation: fadeAnimation 1s ease-in-out forwards;
+}
+@keyframes fadeAnimation {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+.btn_thaotac {
+    padding: 0 8px;
+    font-weight: bold;
+}
+
+.btn_thaotac:hover {
+    text-decoration: underline;
+}
+
+.Page_detailProduct td {
+    color: #ffffff;
+    padding: 0 8px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.Page_detailProduct td:hover {
+    text-decoration: underline;
+}

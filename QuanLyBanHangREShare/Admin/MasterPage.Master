@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.Master.cs" Inherits="QuanLyBanHangREShare.Master_1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>REShare - Vòng đời mới cho quần áo</title>
+    <link href="../img/logo.png" rel="icon" /> 
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../assets/Style.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <%--Phần Header--%>
+            <header id="header">
+                <div class="header_left">
+                    <asp:ImageButton ID="img_home" runat="server" ImageUrl="~/img/logo.png" PostBackUrl="~/Home.aspx" />
+                    <asp:Menu ID="Menu_nav" CssClass="Menu_nav" runat="server" Orientation="Horizontal">
+                        <Items>
+                            <asp:MenuItem Text="DANH SÁCH SẢN PHẨM" Value="1" ToolTip="Chi tiết sản phẩm" NavigateUrl="~/Admin/DanhSachSanPham.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="THÊM SẢN PHẨM" Value="2" ToolTip="Thêm Sản Phẩm" NavigateUrl="~/Admin/ThemSanPham.aspx"></asp:MenuItem>
+                            <%--<asp:MenuItem Text="DANH SÁCH KHÁCH HÀNG" Value="3" ToolTip="Danh sách khách hàng" NavigateUrl="~/Admin/DanhSachKhachHang.aspx"></asp:MenuItem>--%>
+                            <asp:MenuItem Text="QUẢN LÝ ĐƠN HÀNG" Value="4" ToolTip="Quản lý đơn hàng" NavigateUrl="~/Admin/QuanLyDonHang.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="BÁO CÁO, THỐNG KÊ DOANH THU" Value="5" ToolTip="Báo cáo, thống kê" NavigateUrl="~/Admin/BaoCaoThongKe.aspx"></asp:MenuItem>
+                        </Items>
+                    </asp:Menu>
+                </div>
+
+                <div class="header_right">
+                    <asp:ImageButton CssClass="header_right_img" ID="img_login" runat="server" ImageUrl="~/img/login.png" PostBackUrl="~/Login_Logout.aspx" CausesValidation="False" />
+                    <strong>
+                       <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="../Login.aspx" Font-Bold="True" Font-Size="Large" ForeColor="#FF3300">Logout</asp:HyperLink>
+                    </strong>
+                    
+                    <div class="header_right_giohang">
+    <asp:ImageButton CssClass="header_right_img"  ID="img_cart" runat="server" ImageUrl="~/img/cart.png" PostBackUrl="~/Customers/GioHang.aspx" CausesValidation="False" Visible="False" />
+    <asp:Label CssClass="lbl_giohang" ID="lblnumgiohang" runat="server" Text="0" AssociatedControlID="img_cart" Visible="False"></asp:Label>
+</div>
+                    <%--<asp:ImageButton CssClass="header_right_img"  ID="ImageButton1" runat="server" ImageUrl="~/img/icon_menu.png" />--%>
+                </div>
+            </header>
+
+            <%--Phần Content--%>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

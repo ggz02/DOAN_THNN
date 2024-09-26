@@ -1,0 +1,484 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|d:\\ufm 1\\nam3\\hk3\\thnn\\code\\quanlybanhangreshare\\quanlybanhangreshare\\admin\\baocaothongke.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\admin\\baocaothongke.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\admin\\baocaothongke.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\admin\\baocaothongke.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\admin\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\admin\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|d:\\ufm 1\\nam3\\hk3\\thnn\\code\\quanlybanhangreshare\\quanlybanhangreshare\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\master_1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\master_1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\admin\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\admin\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\login_logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\login_logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\dangky.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\dangky.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\login_logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\login_logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\dangky.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\dangky.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\customers\\lichsudonhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\customers\\lichsudonhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\admin\\danhsachsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\admin\\danhsachsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\admin\\themsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\admin\\themsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\assets\\chitietsanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\assets\\chitietsanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\admin\\danhsachsanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\admin\\danhsachsanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\admin\\quanlydonhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\admin\\quanlydonhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\admin\\quanlydonhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\admin\\quanlydonhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\admin\\themsanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\admin\\themsanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\customers\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\customers\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\customers\\donhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\customers\\donhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\quanlybanhangreshare\\chonsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|QuanLyBanHangREShare\\QuanLyBanHangREShare.csproj|solutionrelative:quanlybanhangreshare\\chonsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 52,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.aspx",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Menu.aspx",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Menu.aspx",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Menu.aspx",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Menu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T14:28:49.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MasterPage.Master",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\MasterPage.Master",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Admin\\MasterPage.Master",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\MasterPage.Master",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Admin\\MasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T15:10:00.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MasterPage.Master.cs",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\MasterPage.Master.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Admin\\MasterPage.Master.cs",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\MasterPage.Master.cs",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Admin\\MasterPage.Master.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:42:16.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Master_1.Master",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Master_1.Master",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Master_1.Master",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Master_1.Master",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Master_1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T16:48:37.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Home.aspx",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Home.aspx",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Home.aspx",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Home.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T01:46:21.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Web.config",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Web.config",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Web.config",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Web.config",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAABkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-05T17:28:39.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaoCaoThongKe.aspx",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\BaoCaoThongKe.aspx",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Admin\\BaoCaoThongKe.aspx",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\BaoCaoThongKe.aspx",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Admin\\BaoCaoThongKe.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T15:03:57.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaoCaoThongKe.aspx.cs",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\BaoCaoThongKe.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Admin\\BaoCaoThongKe.aspx.cs",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\BaoCaoThongKe.aspx.cs",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Admin\\BaoCaoThongKe.aspx.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAEcAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:31:34.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Login.aspx.cs",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Login.aspx.cs",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Login.aspx.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAIBJwGwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:16:33.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Login.aspx.designer.cs",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Login.aspx.designer.cs",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Login.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:50:33.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login_Logout.aspx",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Login_Logout.aspx",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Login_Logout.aspx",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Login_Logout.aspx",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Login_Logout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T13:37:20.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DangKy.aspx.cs",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\DangKy.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\DangKy.aspx.cs",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\DangKy.aspx.cs",
+              "RelativeToolTip": "QuanLyBanHangREShare\\DangKy.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwB8AAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:39:52.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login_Logout.aspx.cs",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Login_Logout.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Login_Logout.aspx.cs",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Login_Logout.aspx.cs",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Login_Logout.aspx.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAQwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:42:45.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DangKy.aspx",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\DangKy.aspx",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\DangKy.aspx",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\DangKy.aspx",
+              "RelativeToolTip": "QuanLyBanHangREShare\\DangKy.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T13:39:20.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LichSuDonHang.aspx",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Customers\\LichSuDonHang.aspx",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Customers\\LichSuDonHang.aspx",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Customers\\LichSuDonHang.aspx",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Customers\\LichSuDonHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T14:33:01.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DanhSachSanPham.aspx.cs",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\DanhSachSanPham.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Admin\\DanhSachSanPham.aspx.cs",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\DanhSachSanPham.aspx.cs",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Admin\\DanhSachSanPham.aspx.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwDIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:37:32.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ThemSanPham.aspx",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\ThemSanPham.aspx",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Admin\\ThemSanPham.aspx",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\ThemSanPham.aspx",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Admin\\ThemSanPham.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T06:39:43.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DanhSachSanPham.aspx",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\DanhSachSanPham.aspx",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Admin\\DanhSachSanPham.aspx",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\DanhSachSanPham.aspx",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Admin\\DanhSachSanPham.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T06:41:26.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChiTietSanPham.css",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\assets\\ChiTietSanPham.css",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\assets\\ChiTietSanPham.css",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\assets\\ChiTietSanPham.css",
+              "RelativeToolTip": "QuanLyBanHangREShare\\assets\\ChiTietSanPham.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-09T08:17:50.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QuanLyDonHang.aspx.cs",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\QuanLyDonHang.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Admin\\QuanLyDonHang.aspx.cs",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\QuanLyDonHang.aspx.cs",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Admin\\QuanLyDonHang.aspx.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wCcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:37:52.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QuanLyDonHang.aspx",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\QuanLyDonHang.aspx",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Admin\\QuanLyDonHang.aspx",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\QuanLyDonHang.aspx",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Admin\\QuanLyDonHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-04T17:41:06.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ThemSanPham.aspx.cs",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\ThemSanPham.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Admin\\ThemSanPham.aspx.cs",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Admin\\ThemSanPham.aspx.cs",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Admin\\ThemSanPham.aspx.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAAwH4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:40:21.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\WebForm1.aspx",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\WebForm1.aspx",
+              "RelativeToolTip": "QuanLyBanHangREShare\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T17:28:32.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GioHang.aspx",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Customers\\GioHang.aspx",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Customers\\GioHang.aspx",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Customers\\GioHang.aspx",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Customers\\GioHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T14:34:09.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DonHang.aspx",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Customers\\DonHang.aspx",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\Customers\\DonHang.aspx",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\Customers\\DonHang.aspx",
+              "RelativeToolTip": "QuanLyBanHangREShare\\Customers\\DonHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T14:11:44.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ChonSanPham.aspx",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\ChonSanPham.aspx",
+              "RelativeDocumentMoniker": "QuanLyBanHangREShare\\ChonSanPham.aspx",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK3\\THNN\\Code\\QuanLyBanHangREShare\\QuanLyBanHangREShare\\ChonSanPham.aspx",
+              "RelativeToolTip": "QuanLyBanHangREShare\\ChonSanPham.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T13:42:54.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 347,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
